@@ -1,0 +1,4 @@
+body {
+  background: linear-gradient(135deg, #005f4b 0%, #087f6d 50%, #0fa68c 100%);
+  background-blend-mode: overlay;
+}
